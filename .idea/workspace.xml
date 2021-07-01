@@ -165,14 +165,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1866" y="198" key="#Inspections" timestamp="1624403650138">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1866" y="198" key="#Inspections/0.0.1280.760/1280.0.1920.1040@1280.0.1920.1040" timestamp="1624403650138" />
     <state x="420" y="134" key="FileChooserDialogImpl" timestamp="1622512553988">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1622512553988" />
-    <state x="2064" y="421" key="Github.CreateGistDialog" timestamp="1623889361270">
+    <state x="2064" y="421" key="Github.CreateGistDialog" timestamp="1624932257215">
       <screen x="1280" y="0" width="1920" height="1040" />
     </state>
-    <state x="2064" y="421" key="Github.CreateGistDialog/0.0.1280.760/1280.0.1920.1040@1280.0.1920.1040" timestamp="1623889361270" />
+    <state x="2064" y="421" key="Github.CreateGistDialog/0.0.1280.760/1280.0.1920.1040@1280.0.1920.1040" timestamp="1624932257215" />
     <state width="1899" height="179" key="GridCell.Tab.0.bottom" timestamp="1623890260503">
       <screen x="1280" y="0" width="1920" height="1040" />
     </state>
@@ -197,10 +201,10 @@
       <screen x="1280" y="0" width="1920" height="1040" />
     </state>
     <state x="1961" y="261" width="540" height="524" key="StructurePopup/0.0.1280.760/1280.0.1920.1040@1280.0.1920.1040" timestamp="1623890056303" />
-    <state x="1896" y="240" key="run.anything.popup" timestamp="1623722094748">
+    <state x="1896" y="240" key="run.anything.popup" timestamp="1624328217103">
       <screen x="1280" y="0" width="1920" height="1040" />
     </state>
-    <state x="1896" y="240" key="run.anything.popup/0.0.1280.760/1280.0.1920.1040@1280.0.1920.1040" timestamp="1623722094748" />
+    <state x="1896" y="240" key="run.anything.popup/0.0.1280.760/1280.0.1920.1040@1280.0.1920.1040" timestamp="1624328217103" />
     <state x="1903" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1623627737093">
       <screen x="1280" y="0" width="1920" height="1040" />
     </state>

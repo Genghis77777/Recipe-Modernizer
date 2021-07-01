@@ -1,4 +1,4 @@
-"""Initial version of a combined converter using a function
+"""Initial version of a combined converter using a function (Component 8?)
 Converts amount to mls but doesn't yet include conversion of mls to gms.
 Version 1
 Created by Joshua Kan

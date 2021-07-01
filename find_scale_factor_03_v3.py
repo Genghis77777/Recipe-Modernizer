@@ -26,10 +26,8 @@ while not keep_scale_factor:
 
     # Get serving size
     serving_size = num_check("What is the recipe serving size? ")
-
     # Get desired number of servings
     desired_size = num_check("How many servings are needed? ")
-
     # Calculate scale factor
     scale_factor = desired_size / serving_size
 
